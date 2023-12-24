@@ -39,7 +39,3 @@
 ### [Угадай шифр](https://logic-arrows.io/map-huFWR51F)
 [![Угадай шифр](https://cdn.discordapp.com/attachments/1176635849824272384/1177629942855508008/image.png?ex=65981e59&is=6585a959&hm=b5544e4ad1c106b788d5062caff52790e42f64792691ed26d620fa10c05a47b2&)](https://logic-arrows.io/map-huFWR51F)
 <br><br>
-
-### [Вычитатель](https://logic-arrows.io/map-GvPsAA38)
-[![Вычитатель](img/subtractor.png)](https://logic-arrows.io/map-GvPsAA38)
-<br><br>
