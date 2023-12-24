@@ -8,7 +8,7 @@
 
 ## Мои карты
 
-### [Четыре в ряд](./computer.md)
+### [Четыре в ряд](https://logic-arrows.io/map-four_in_a_row)
 [![Компьютер](img/computer.png)](./computer.md)
 <br><br>
 
